@@ -19,7 +19,7 @@ from sphinx_rtd_theme import __version__
 # -- Project information -----------------------------------------------------
 
 project = 'T5-EPD47文档'
-copyright = '2021, LilyGo'
+copyright = '2022, LilyGo'
 author = 'LilyGo'
 
 # The full version, including alpha/beta/rc tags
